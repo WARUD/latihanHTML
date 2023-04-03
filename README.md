@@ -1,2 +1,2 @@
 # latihanHTML
-Untuk latihan html dan pemanfaat git bersama alkademi
+Untuk latihan html dan css serta pemanfaat git bersama alkademi
